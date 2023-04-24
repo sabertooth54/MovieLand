@@ -5,7 +5,7 @@ import "./App.css";
 import SearchIcon from "./search.svg";
 // e03f2c69
 
-const API_URL = "http://www.omdbapi.com?apikey=e03f2c69";
+const API_URL = "https://www.omdbapi.com?apikey=e03f2c69";
 
 const movie1 = {
   Title: "Amazing Spiderman Syndrome",
